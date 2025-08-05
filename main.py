@@ -16,4 +16,5 @@ st.dataframe(data)
 
 #입력받기
 n=st.text_input('이름이나 써보거라')
-st.write(f'반갑구나 {n}님.')
+if n= 1:
+    st.write(f'반갑구나 {n}님.')
