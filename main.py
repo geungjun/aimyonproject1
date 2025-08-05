@@ -8,3 +8,4 @@ data = pd.DataFrame({
     '숫자': [1, 2, 3, 4],
     '제곱': [1, 4, 9, 16]
 })
+st.dataframe(data)
